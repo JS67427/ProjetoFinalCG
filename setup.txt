@@ -1,0 +1,8 @@
+pip install panda3d
+pip install panda3d-bullet
+pip install panda3d-gltf
+.\venv\Scripts\activate
+venv/bin/activate
+
+
+
